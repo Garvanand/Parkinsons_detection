@@ -66,3 +66,4 @@ if uploaded_file is not None:
     st.write(f"Accuracy: {accuracy * 100:.2f}%")
     st.write(f"Matthews Correlation Coefficient: {matthews_corr:.2f}")
     st.text(classification_report(Y_validation, predictions))
+ 
