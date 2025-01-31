@@ -4,4 +4,4 @@ pandas
 scikit_learn
 streamlit
 matplotlib
-
+seaborn
